@@ -1,2 +1,3 @@
 # CrowdFundContract
-Just a smart contract for  crowd funding.
+Just a super simple smart contract for crowd funding based on fund_me example by @PatrickAlphaC.
+
